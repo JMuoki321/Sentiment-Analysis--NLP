@@ -30,7 +30,6 @@ Social media generates millions of brand-related opinions daily — manually tra
 ```
 ├── Sentiment_Analysis_Restructured.ipynb   # Main notebook
 ├── judge-1377884607_tweet_product_company.csv  # Raw dataset
-├── Sentiment_Analysis_CRISP_DM.pptx        # Presentation deck
 └── README.md
 ```
 
